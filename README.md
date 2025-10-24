@@ -1,4 +1,9 @@
 # Web3-Trading
+# Setup
+1. git clone https://github.com/username/repo_name.git
+2. cd repo_name
+
+
 # Trader Behavior Analysis and Market Sentiment Exploration
 
 This project analyzes historical trading data to understand trader behavior and explore its relationship with market sentiment, using a simplified proxy for sentiment due to the unavailability of external data.
